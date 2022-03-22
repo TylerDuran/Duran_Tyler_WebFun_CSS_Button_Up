@@ -1,0 +1,27 @@
+.search {
+    background-color: whitesmoke;
+    border: 2px solid mediumaquamarine;
+    border-radius: 20px;
+    padding: 2px 30px 2px 30px;
+    margin: 40px 0px 5px 40px;
+    color: mediumaquamarine;
+    font-size: 15px;
+}
+.add {
+    height: 35px;
+    width: 35px;
+    background-color: mediumaquamarine;
+    border: 1px solid mediumaquamarine;
+    border-radius: 50%;
+    color: white;
+    margin: 5px 0px 0px 40px;
+}
+.create{
+    background-color: dodgerblue;
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+    color: whitesmoke;
+    font-size: 17px;
+    padding: 3px 30px 3px 30px;
+    margin: 10px 0px 0px 40px;
+}
